@@ -5,6 +5,8 @@ Current median of price for extra kilo: [0.6342]
 
 Coeffitient of price (beta 1): [-0.7]	#coefficitient beta is strictly negative
 
-Coefficient alpha: [4]
+Coefficient alpha: [6]
 
+Avarage number of the extra kilograms at the particular flight: [0.1]
 
+Market share in number of passengers at a certain period: [10000]
