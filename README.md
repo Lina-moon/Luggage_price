@@ -1,5 +1,5 @@
 # Luggage_price
-In order to find the optimal price for luggage overweight:
+In order to opti find the optimal price for luggage overweight:
 
   1. Open input and change the values for you particular case. Don't forget to save.
   
@@ -9,12 +9,12 @@ In order to find the optimal price for luggage overweight:
     b. Parameter beta is the value of importance of the particular attribute that affect the price. 
        In the extended case should be found in a number not bigger than 10. Like b_1, b_2.... b_10.
        Due to the complexity of the problem. Sum of the coefficients beta tends to be 1, 
-       however in this particular case should not be less than -0.8. 
-       Default value = -0.7
+       however in this particular case should not be bigger than 0.8 for the price of 1 kilogram. 
+       Default value = 0.7
        
     c. Parameter alpha normolizes the model. Several times bigger than current median in order to make exponent
-       value strictly positive, but mostly because of the original function graph. 
-       Default value = 6
+       value strictly negative, but mostly because of the original function graph. 
+       Default value = -6
        
     d. Number of the avarage overweight kilograms per person, overall on the flight during certain period of time.  
        Default = 0.1
