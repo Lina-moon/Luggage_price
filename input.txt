@@ -3,9 +3,9 @@ If your value is a then applicable way of writting it is [a].
 
 Current median of price for extra kilo: [0.6342]
 
-Coeffitient of price (beta 1): [-0.7]	#coefficitient beta is strictly negative
+Coeffitient of price (beta 1): [0.7]	
 
-Coefficient alpha: [6]
+Coefficient alpha: [6] #coefficitient alpha is strictly negative
 
 Avarage number of the extra kilograms at the particular flight: [0.1]
 
