@@ -1,0 +1,10 @@
+All the values should be written in the squared brackets. 
+If your value is a then applicable way of writting it is [a].
+
+Current median of price for extra kilo: [0.6342]
+
+Coeffitient of price (beta 1): [-0.7]	#coefficitient beta is strictly negative
+
+Coefficient alpha: [4]
+
+
