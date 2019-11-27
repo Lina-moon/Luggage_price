@@ -1,5 +1,5 @@
 # Luggage_price
-In order to opti find the optimal price for luggage overweight:
+In order to optize revenue or to find the optimal price for luggage overweight:
 
   1. Open input and change the values for you particular case. Don't forget to save.
   
