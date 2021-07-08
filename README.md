@@ -1,7 +1,7 @@
 # Luggage_price
 In order to optimize revenue or to find the optimal price for luggage overweight:
 
-  1. Open input and change the values for you particular case. Don't forget to save.
+  1. Open input and change the values for your particular case. Don't forget to save.
   
     a. Current median of the price is very inaccurate evaluation of the price that is suggested currently. 
        Default value = 0.6342, which is 634.2 rubles for the kilogram.
